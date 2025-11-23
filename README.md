@@ -37,4 +37,4 @@ This course helps you understand **why LLMs matter in the data world**, how tran
 ---
 
 ## Watch the Full Course on YouTube  
-- Ansh Lamba 
+https://youtu.be/X8F9JfCUWrs?si=vAI-piLKSznX-tC6
